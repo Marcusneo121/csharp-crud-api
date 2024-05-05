@@ -1,0 +1,17 @@
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/csharp-crud-api
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/appsettings.Development.json
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/appsettings.json
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/csharp-crud-api.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/csharp-crud-api.runtimeconfig.json
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/csharp-crud-api.pdb
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Microsoft.AspNetCore.OpenApi.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Microsoft.EntityFrameworkCore.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Microsoft.OpenApi.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Npgsql.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcusneo/Documents/Dev/DOTNET/CrudApp/csharp-crud-api/out/csharp-crud-api.deps.json
